@@ -1,13 +1,13 @@
-## About Me
-👋 Hello there! I'm a full-stack developer with a passion for crafting exceptional mobile apps and working with data. With expertise in Python, C, Java, Dart, Flutter, MySQL, Hive, and a touch of Photoshop, I love exploring the possibilities of technology. I embrace the power of Domain-Driven Architecture to create robust and scalable applications. Join me on this exciting journey as we create remarkable digital experiences together! ✨🚀
+#Hi there, I'm Akshay Shine Krishna! 👋
+A full-stack developer with a passion for crafting exceptional mobile apps and working with data. With expertise in Python, C, Java, Dart, Flutter, MySQL, Hive, and a touch of Photoshop, I love exploring the possibilities of technology. I embrace the power of Domain-Driven Architecture to create robust and scalable applications. Join me on this exciting journey as we create remarkable digital experiences together! ✨🚀
 
 ## Skills
-- Programming Languages: Python, C, Java, Dart
-- Frameworks: Flutter
-- Databases: MySQL, Hive, SQLite
-- Design: Photoshop
-- Architecture: Domain-Driven Architecture
-- Version Control: Git, GitHub
+💻 Programming Languages: Python, C, Java, Dart
+📱 Frameworks: Flutter
+🔮 Databases: MySQL, Hive, SQLite
+🖌️ Design: Photoshop
+🛠️ Architecture: Domain-Driven Architecture
+🚀 Version Control: Git, GitHub
 
 ## Projects
 🌟 I've embarked on various projects, developing captivating mobile applications and exploring the realm of data. Using Domain-Driven Architecture, I create software solutions that are modular, maintainable, and aligned with business needs. Let's dive into the world of code and create extraordinary experiences that leave a lasting impression! 📱🚀✨
