@@ -1,8 +1,3 @@
-# Tech Explorer 🚀
-
-## Bio
-Full-Stack Developer | Mobile App Enthusiast | Data Aficionado 🌟📱💾
-
 ## About Me
 👋 Hello there! I'm a full-stack developer with a passion for crafting exceptional mobile apps and working with data. With expertise in Python, C, Java, Dart, Flutter, MySQL, Hive, and a touch of Photoshop, I love exploring the possibilities of technology. I embrace the power of Domain-Driven Architecture to create robust and scalable applications. Join me on this exciting journey as we create remarkable digital experiences together! ✨🚀
 
