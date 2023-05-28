@@ -1,4 +1,4 @@
-# Hi there  <img src="https://github.com/AkshayShineKrishna/AkshayShineKrishna/blob/main/wave.gif" width="50px" height="50px" />
+# Hi there  <img src="https://github.com/AkshayShineKrishna/AkshayShineKrishna/blob/main/wave.gif" width="40px" height="40px" />
 I'm Akshay Shine Krishna! a full-stack developer with a passion for crafting exceptional mobile apps and working with data. With expertise in Python, C, Java, Dart, Flutter, MySQL, Hive, and a touch of Photoshop, I love exploring the possibilities of technology. I embrace the power of Domain-Driven Architecture to create robust and scalable applications. Join me on this exciting journey as we create remarkable digital experiences together! ✨🚀
 
 ## Skills
