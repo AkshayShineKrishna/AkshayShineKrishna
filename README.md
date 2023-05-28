@@ -6,7 +6,7 @@ I'm Akshay Shine Krishna! a full-stack developer with a passion for crafting exc
 📱 Frameworks: Flutter  
 🔮 Databases: MySQL, Hive, SQLite  
 🖌️ Design: Photoshop  
-🛠️ Architecture: Domain-Driven Architecture  
+🛠️ Architecture: Domain-Driven Design  
 🚀 Version Control: Git, GitHub  
 
 
