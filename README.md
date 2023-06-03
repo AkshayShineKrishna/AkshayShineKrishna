@@ -23,7 +23,10 @@ Here are some of my notable projects:
   
 ![GitHub stars](https://img.shields.io/github/stars/AkshayShineKrishna/Netflix_App_UI_Clone.svg?style=social&label=Star) ![GitHub forks](https://img.shields.io/github/forks/AkshayShineKrishna/Netflix_App_UI_Clone.svg?style=social&label=Forks)  
 [Netflix_App_UI_Clone](https://github.com/AkshayShineKrishna/Netflix_App_UI_Clone) : 
-A project where I replicated the UI of the Netflix app using Flutter. Check it out to see how I recreated the user interface and implemented various features. 
+A project where I replicated the UI of the Netflix app using Flutter. Check it out to see how I recreated the user interface and implemented various features.  
+
+[Tmdb_Movie_Fetcher](https://github.com/AkshayShineKrishna/Tmdb_Movie_Fetcher): A Flask application that fetches movie details from the TMDb API and enhances the data by incorporating additional information like video links and logos.  
+
 ## Collaboration and Innovation
 🤝 I believe in the power of collaboration and innovation. Working together, we can build remarkable solutions that make a difference. I'm always open to new opportunities, ideas, and collaborations that allow us to create something truly exceptional. Let's embark on this exciting journey together! 🌟🚀
 
