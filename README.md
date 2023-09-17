@@ -7,14 +7,14 @@ I'm Akshay Shine Krishna, a passionate full-stack developer skilled in crafting 
 Mobile app development is my specialty! I thrive on creating seamless user experiences, pushing the boundaries with Flutter, and delivering visually stunning, high-performance applications. I harness the power of Domain-Driven Architecture to build robust and scalable solutions. Join me on this exciting journey as we craft remarkable digital experiences together! ✨🚀
 
 ## Skills
-💻 Programming Languages: Python, C, Java, Dart  
+💻 Programming Languages: Python, C, Java, Dart, Html,CSS, JavaScript  
 📱 Frameworks: Flutter, Flask  
 🔮 Databases: MySQL   
 🖌️ Design: Photoshop  
 🛠️ Architecture: Domain-Driven Design  
 🚀 Version Control: Git, GitHub
 
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+[![My Skills](https://skillicons.dev/icons?i=c,python,java,dart,flutter,flask,mysql,photoshop,git,github,html,css,javascript)](https://skillicons.dev)
 
 ## Projects
   
