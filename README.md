@@ -23,3 +23,5 @@ Mobile app development is my specialty! I thrive on creating seamless user exper
 A project where I replicated the UI of the Netflix app using Flutter. Check it out to see how I recreated the user interface and implemented various features.  
 
 [Tmdb_Movie_Fetcher](https://github.com/AkshayShineKrishna/Tmdb_Movie_Fetcher): A Flask application that fetches movie details from the TMDb API and enhances the data by incorporating additional information like video links and logos.  
+
+[Steamy](https://github.com/AkshayShineKrishna/Steamy-YT-Music-Player) : a dynamic music streaming app crafted with Flutter and powered by Python. Effortlessly stream and download your favorite tunes from YouTube, all within a sleek and intuitive interface.
