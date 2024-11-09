@@ -14,7 +14,7 @@ Mobile app development is my specialty! I thrive on creating seamless user exper
 🛠️ Architecture: Domain-Driven Design  
 🚀 Version Control: Git, GitHub
 
-[![My Skills](https://skillicons.dev/icons?i=c,python,java,dart,flutter,flask,mysql,photoshop,git,github,html,css,javascript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,python,java,dart,flutter,flask,mysql,photoshop,git,github,html,css,javascript,firebase,r)](https://skillicons.dev)
 
 ## Projects
   
